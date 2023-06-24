@@ -7,7 +7,7 @@
 
 ## Tech Stack
 <div style="display: inline_block"><br>
-  <img align="center" alt="Nena-Java" height="30" width="40" src="https://www.flaticon.com/free-icon/java_226777?term=java&page=1&position=3&origin=search&related_id=226777">
+  <img align="center" alt="Nena-Java" height="30" width="40" src="icons/java/java-original.svg">
   <img align="center" alt="Nena-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Nena-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nena-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
