@@ -1,14 +1,14 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lorena Santos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nenasantos&color=yellow" alt="Profile views" /> </p>
 
-- 🔭 I’m currently learning JavaScript, HTML, CSS, SQL, Java
+- 🔭 I’m studying software engineering
 
 - 👨‍💻 More at [Linkedin](https://www.linkedin.com/in/lorena-santos-log/)
 
 ## Tech Stack
 <ul>
 <li>![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;</li>
-<li>![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;</li>
+<li>![Java](https://www.flaticon.com/free-icon/java_226777?term=java&page=1&position=3&origin=search&related_id=226777)&nbsp;</li>
 <li>![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;</li>
 <li>![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;</li>
 <li>![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;</li>
@@ -22,9 +22,8 @@
 ## GitHub Analytics
 
 <p align="left">
-<img width="380em" src="https://github-readme-stats.vercel.app/api?username=nenasantos&show_icons=true&theme=vision-friendly-dark" alt="nenasantos's stats"/>
-  <br><br>
-<img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenasantos&layout=compact&theme=vision-friendly-dark" alt="nenasantos's most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=nenasantos&show_icons=true&theme=vision-friendly-dark" alt="nenasantos's stats"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenasantos&layout=compact&theme=vision-friendly-dark" alt="nenasantos's most languages"/>
 </p>
 
 <!--
