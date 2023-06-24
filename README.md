@@ -6,16 +6,15 @@
 - 👨‍💻 More at [Linkedin](https://www.linkedin.com/in/lorena-santos-log/)
 
 ## Tech Stack
-<ul>
-<li>![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;</li>
-<li>![Java](https://www.flaticon.com/free-icon/java_226777?term=java&page=1&position=3&origin=search&related_id=226777)&nbsp;</li>
-<li>![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;</li>
-<li>![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;</li>
-<li>![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;</li>
-<li>![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;</li>
-<li>![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;</li>
-<li>![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;</li>
-</ul>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Nena-Java" height="30" width="40" src="https://www.flaticon.com/free-icon/java_226777?term=java&page=1&position=3&origin=search&related_id=226777">
+  <img align="center" alt="Nena-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Nena-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Nena-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nena-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Nena-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Nena-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
 
 <br><br>
 
