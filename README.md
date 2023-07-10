@@ -22,7 +22,7 @@
 ## GitHub Analytics
 <div align="left">
   
-([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nenasantos&layout=donut)](https://github.com/nenasantos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nenasantos&layout=donut)](https://github.com/nenasantos/github-readme-stats)
   
  </div>
 
